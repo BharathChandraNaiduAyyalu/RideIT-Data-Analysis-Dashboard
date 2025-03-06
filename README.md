@@ -41,8 +41,9 @@ A comprehensive dashboard was created using Power BI to visualize the analysis r
 - DASHBOARD IMAGES : https://github.com/BharathChandraNaiduAyyalu/RideIT-Data-Analysis-Dashboard/blob/main/DASHBOARD%20FILE.IMG.pdf
 
 
+
 ### NOTE:i don't have an microsoft account to publish my dashboard interactivitly.You can analyze my work in above link.
-C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2025-03-06 094305.png
+
 
 
 
