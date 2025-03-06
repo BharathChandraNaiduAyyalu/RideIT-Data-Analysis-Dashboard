@@ -42,7 +42,7 @@ A comprehensive dashboard was created using Power BI to visualize the analysis r
 
 
 ### NOTE:i don't have an microsoft account to publish my dashboard interactivitly.You can analyze my work in above link.
-"<a href=http://C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2025-03-06 094305.png</a>
+C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2025-03-06 094305.png
 
 
 
