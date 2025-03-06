@@ -31,6 +31,10 @@ The cleaned data was imported into MySQL for further analysis. SQL queries were 
 - Percentage of bookings?
 - Percentage of completed rides?
 - In which month more rides are completed?
-- https://github.com/BharathChandraNaiduAyyalu/RideIT-Data-Analysis-Dashboard/blob/main/DASHBOARD%20FILE.IMG.pdf
+
+-## Dashboard (Power BI)
+
+A comprehensive dashboard was created using Power BI to visualize the analysis results.
+
 
 
