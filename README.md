@@ -13,21 +13,21 @@ The data was cleaned and preprocessed using Excel to remove any inconsistencies,
 
 ## Data Analysis (MySQL)
 
-**Total active drivers
-**Total offers received by drivers
-**Total bookings accepted by drivers
-**Total cancellations done by passenger and drivers
-**Total no of cancellation done by passenger.
-**Total no of cancellation done by drivers
-**Total rides completed
-**Day with the most cancellations of rides
-**Day with the most offers are received for rides
-**Day with most bookings accepted by drivers
-**Day with most rides completed
-**Percentage of offers received by drivers
-**Percentage of cancellations
-**Percentage of bookings
-**Percentage of completed rides
-**In which month more rides are completed
+**Total active drivers**
+**Total offers received by drivers**
+**Total bookings accepted by drivers**
+**Total cancellations done by passenger and drivers**
+**Total no of cancellation done by passenger**
+**Total no of cancellation done by drivers**
+**Total rides completed**
+**Day with the most cancellations of rides**
+**Day with the most offers are received for rides**
+**Day with most bookings accepted by drivers**
+**Day with most rides completed**
+**Percentage of offers received by drivers**
+**Percentage of cancellations**
+**Percentage of bookings**
+**Percentage of completed rides**
+**In which month more rides are completed**
 
 
