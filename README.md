@@ -15,9 +15,8 @@ The data was cleaned and preprocessed using Excel to remove any inconsistencies,
 
 The cleaned data was imported into MySQL for further analysis. SQL queries were used to extract meaningful insights from the data, such as:
 
-**Total active drivers**
-
-**Total offers received by drivers**
+-Total active drivers**
+-Total offers received by drivers**
 **Total bookings accepted by drivers**
 **Total cancellations done by passenger and drivers**
 **Total no of cancellation done by passenger**
