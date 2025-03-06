@@ -32,9 +32,15 @@ The cleaned data was imported into MySQL for further analysis. SQL queries were 
 - Percentage of completed rides?
 - In which month more rides are completed?
 
--## Dashboard (Power BI)
+## Dashboard (Power BI)
 
-A comprehensive dashboard was created using Power BI to visualize the analysis results.
+A comprehensive dashboard was created using Power BI to visualize the analysis results.The dashboard includes:
+
+- Key performance indicators (KPIs)
+- Interactive charts and graphs 
+
+
+
 
 
 
