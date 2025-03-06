@@ -37,7 +37,11 @@ The cleaned data was imported into MySQL for further analysis. SQL queries were 
 A comprehensive dashboard was created using Power BI to visualize the analysis results.The dashboard includes:
 
 - Key performance indicators (KPIs)
-- Interactive charts and graphs 
+- Interactive charts and graphs
+- DASHBOARD IMAGES : https://github.com/BharathChandraNaiduAyyalu/RideIT-Data-Analysis-Dashboard/blob/main/DASHBOARD%20FILE.IMG.pdf
+
+
+  NOTE:i don't have an microsoft account to publish my dashboard interactivitly
 
 
 
