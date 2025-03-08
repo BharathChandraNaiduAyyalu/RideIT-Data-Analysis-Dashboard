@@ -42,7 +42,7 @@ A comprehensive dashboard was created using Power BI to visualize the analysis r
 
 
 
-### NOTE:I don't have an microsoft account to publish my dashboard interactivitly.You can analyze my work in above link.
+### NOTE:I don't have an microsoft Power BI service account to publish my dashboard interactivitly.You can analyze my work in above link.
 
 
 
