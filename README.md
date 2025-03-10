@@ -45,43 +45,35 @@ A comprehensive dashboard was created using Power BI to visualize the analysis r
 
 - There are a total of 36,771 drivers registered across Germany and Spain.
 
-# Average Ratings:
-
-- The average rating for taxis is 4.87.
-
-- The average rating for PHVs (Private Hire Vehicles) is 4.89.
-
-T- his suggests a high level of satisfaction among users for both services.
-
-# Marketing Reception:
+### Marketing Reception:
 
 - 71.20% of drivers have opted to receive marketing materials.
 
 - This indicates a strong interest in staying informed about marketing promotions and updates.
 
-# Drivers by Country:
+### Drivers by Country:
 
 - Germany has a higher number of registered drivers (25,601) compared to Spain (11,170).
 
-# Service Type Distribution:
+### Service Type Distribution:
 
 - In Germany, 20,151 drivers are registered for taxis, and 5,651 for PHVs.
 
 - In Spain, all 11,170 registered drivers are for taxis.
 
-# Marketing Preferences:
+### Marketing Preferences:
 
 - In Germany, 17,256 drivers opted to receive marketing materials, while 8,546 drivers did not.
 
 - In Spain, 9,069 drivers opted in, and 2,101 drivers opted out.
 
-# Driver Registration Timeline:
+### Driver Registration Timeline:
 
 - The line graph indicates trends in driver registration over time from 2012 to 2020 for both countries.
 
 - Analyzing this graph can provide insights into peak registration periods and potential factors influencing these trends.
 
-## Bookings,Rides Completed and Cancellations
+### Bookings,Rides Completed and Cancellations
 
 - Total Active Drivers: 20,110
 
@@ -97,7 +89,7 @@ T- his suggests a high level of satisfaction among users for both services.
 
 - Percentage of Rides Completed: 84.19%
 
-# Cancellations:
+### Cancellations:
 
 - Driver Cancellations: 249K (6.98% of offers received)
 
