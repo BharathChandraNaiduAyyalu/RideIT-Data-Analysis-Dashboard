@@ -38,8 +38,72 @@ A comprehensive dashboard was created using Power BI to visualize the analysis r
 
 - Key performance indicators (KPIs)
 - Interactive charts and graphs
-- DASHBOARD IMAGES : https://github.com/BharathChandraNaiduAyyalu/RideIT-Data-Analysis-Dashboard/blob/main/DASHBOARD%20FILE.IMG.pdf
 
+## Key Insights From Dashboard
+
+# Total Drivers Registered:
+
+- There are a total of 36,771 drivers registered across Germany and Spain.
+
+# Average Ratings:
+
+- The average rating for taxis is 4.87.
+
+- The average rating for PHVs (Private Hire Vehicles) is 4.89.
+
+T- his suggests a high level of satisfaction among users for both services.
+
+# Marketing Reception:
+
+- 71.20% of drivers have opted to receive marketing materials.
+
+- This indicates a strong interest in staying informed about marketing promotions and updates.
+
+# Drivers by Country:
+
+- Germany has a higher number of registered drivers (25,601) compared to Spain (11,170).
+
+# Service Type Distribution:
+
+- In Germany, 20,151 drivers are registered for taxis, and 5,651 for PHVs.
+
+- In Spain, all 11,170 registered drivers are for taxis.
+
+# Marketing Preferences:
+
+- In Germany, 17,256 drivers opted to receive marketing materials, while 8,546 drivers did not.
+
+- In Spain, 9,069 drivers opted in, and 2,101 drivers opted out.
+
+# Driver Registration Timeline:
+
+- The line graph indicates trends in driver registration over time from 2012 to 2020 for both countries.
+
+- Analyzing this graph can provide insights into peak registration periods and potential factors influencing these trends.
+
+## Bookings,Rides Completed and Cancellations
+
+- Total Active Drivers: 20,110
+
+- Total Offers Received: 13,037K
+
+- Bookings and Rides Completed:
+
+- Bookings Accepted: 3,568K
+
+- Rides Completed: 3,004K
+
+- Percentage of Bookings: 27.37%
+
+- Percentage of Rides Completed: 84.19%
+
+# Cancellations:
+
+- Driver Cancellations: 249K (6.98% of offers received)
+
+- Passenger Cancellations: 319K (8.94% of offers received)
+
+- DASHBOARD IMAGES : https://github.com/BharathChandraNaiduAyyalu/RideIT-Data-Analysis-Dashboard/blob/main/DASHBOARD%20FILE.IMG.pdf
 
 
 ### NOTE:I don't have an microsoft Power BI service account to publish my dashboard interactivitly.You can analyze my work in above link.
