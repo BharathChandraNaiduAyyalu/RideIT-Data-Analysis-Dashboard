@@ -41,7 +41,7 @@ A comprehensive dashboard was created using Power BI to visualize the analysis r
 
 ## Key Insights From Dashboard
 
-# Total Drivers Registered:
+## Total Drivers Registered:
 
 - There are a total of 36,771 drivers registered across Germany and Spain.
 
